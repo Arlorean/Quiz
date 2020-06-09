@@ -26,19 +26,19 @@
 
 ---
 
-## 4. What is the name of the Indian shop keeper? – Arpu
+## 4. What is the name of the Indian shop keeper?
 
 ---
 
-## 5. What are Marge’s sisters called? – Pattie & Selma
+## 5. What are Marge’s sisters called?
 
 ---
 
-## 6. Who is Homer’s boss? – Charles Montgomery Burns
+## 6. Who is Homer’s boss?
 
 ---
 
-## 7. What is the name of Bart’s teacher? – Edna Krabappel
+## 7. What is the name of Bart’s teacher?
 
 ---
 
@@ -144,43 +144,43 @@
 
 ---
 
-![](images/TowerBridge.jpg)
+![](images/TowerBridge.jpg)①
 
 ---
 
-![](images/HumberBridge.jpg)
+![](images/HumberBridge.jpg)② 
 
 ---
 
-![](images/ForthBridge.jpg)
+![](images/ForthBridge.jpg)③
 
 ---
 
-![](images/TyneBridge.jpg)
+![](images/TyneBridge.jpg)④
 
 ---
 
-![](images/CliftonSuspensionBridge.jpg)
+![](images/CliftonSuspensionBridge.jpg)⑤
 
 ---
 
-![](images/InfinityBridge.jpg)
+![](images/InfinityBridge.jpg)⑥
 
 ---
 
-![](images/TheIronBridge.jpg)
+![](images/TheIronBridge.jpg)⑦
 
 ---
 
-![](images/ThePeaceBridge.jpg)
+![](images/ThePeaceBridge.jpg)⑧ 
 
 ---
 
-![](images/TheHighBridge.jpg)
+![](images/MonnowBridge.jpg)⑨ 
 
 ---
 
-![](images/GatesheadMilleniumBridge.jpg)
+![](images/GatesheadMilleniumBridge.jpg)⑩ 
 
 ---
 
@@ -191,16 +191,16 @@
 
 ## Round 3 - Answers
 
-1. Tower Bridge
-2. Humber Bridge 
-3. Forth Bridge
-4. Tyne Bridge
-5. Clifton Suspension Bridge
-6. Infinity Bridge
-7. The Iron Bridge
-8. The Peace Bridge
-9. The High Bridge
-10. Gateshead Millenuim Bridge
+1. Tower Bridge (London)
+2. Humber Bridge (Hull)
+3. Forth Bridge (Edinburgh)
+4. Tyne Bridge (Newcastle)
+5. Clifton Suspension Bridge (Bristol)
+6. Infinity Bridge (Stockton-on-Tees)
+7. The Iron Bridge (Telford)
+8. The Peace Bridge (Londonderry)
+9. Monnow Bridge (Monmouth)
+10. Gateshead Millenuim Bridge (Gateshead)
 
 ---
 
