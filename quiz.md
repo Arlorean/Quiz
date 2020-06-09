@@ -321,16 +321,23 @@
 
 ## Round 5 - Answers
 
-1. Guns and Roses
-2. Bananarama(n)
-3. Beastie Boys
-4. Ramones
-5. Joy Division
-6. Duran Duran
-7. Michael Jackson
-8. Pet Shop Boys
-9. Def Leppard
-10. Talking Heads
+<h5>
+
+|<!---->|<!---->|<!---->|
+|----|----|-------------|
+|1| 🔫🔫🌹🌹     | Guns and Roses     |
+|2| 🍌🍜        | Bananarama(n)    |
+|3| 🐝🐝☕👦👦 | Beastie Boys |
+|4| 🐐1️⃣1️⃣ | Ramones |
+|5| 😂➗ | Joy Division |
+|6| 💧🏃💧🏃 | Duran Duran |
+|7| 🌙🚶 | Michael Jackson |
+|8| 🐕🛒👦👦 | Pet Shop Boys |
+|9| 🙉🐆 | Def Leppard |
+|10| 💬🗿🗿 | Talking Heads |
+||||
+
+</h5>
 
 ---
 
@@ -339,5 +346,160 @@
 
 ---
 
-## 1.  
+# 1. Buddy Bear
+<h2>
 
+|<!---->|<!---->|
+|----|-------------|
+| Ⓐ | Chris Evans  |
+| Ⓑ | Jamie Oliver |
+| Ⓒ | James Corden |
+|||
+
+</h2>
+
+---
+
+# 2. Kal-El
+<h2>
+
+|<!---->|<!---->|
+|----|-------------|
+| Ⓐ | Nicolas Cage      |
+| Ⓑ | Christopher Reeve |
+| Ⓒ | Ben Affleck       |
+|||
+
+</h2>
+
+---
+
+# 3. Moroccan
+<h2>
+
+|<!---->|<!---->|
+|----|-------------|
+| Ⓐ | Bear Grills     |
+| Ⓑ | Mariah Carey    |
+| Ⓒ | Kirstie Allsopp |
+|||
+
+</h2>
+
+---
+
+# 4. Bear Blaze
+<h2>
+
+|<!---->|<!---->|
+|----|-------------|
+| Ⓐ | Ethan Hawke       |
+| Ⓑ | Leonardo DiCaprio |
+| Ⓒ | Kate Winslet      |
+|||
+
+</h2>
+
+---
+
+# 5. Blue Ivy
+<h2>
+
+|<!---->|<!---->|
+|----|-------------|
+| Ⓐ | Ben Stiller |
+| Ⓑ | Pink        |
+| Ⓒ | Beyoncé     |
+|||
+
+</h2>
+
+---
+
+# 6. Reign 
+<h2>
+
+|<!---->|<!---->|
+|----|-------------|
+| Ⓐ | Simon Le Bon        |
+| Ⓑ | Kourtney Kardashian |
+| Ⓒ | Angelina Jolie      |
+|||
+
+</h2>
+
+---
+
+# 7. Apple
+<h2>
+
+|<!---->|<!---->|
+|----|-------------|
+| Ⓐ | Gyneth Paltrow |
+| Ⓑ | Steve Jobs     |
+| Ⓒ | Hilary Duff    |
+|||
+
+</h2>
+
+---
+
+# 8. Memphis Eve
+<h2>
+
+|<!---->|<!---->|
+|----|-------------|
+| Ⓐ | Bono        |
+| Ⓑ | Cher        |
+| Ⓒ | Elvis       |
+|||
+
+</h2>
+
+---
+
+# 9. Blanket
+<h2>
+
+|<!---->|<!---->|
+|----|-------------|
+| Ⓐ | Prince          |
+| Ⓑ | Michael Jackson |
+| Ⓒ | Sting           |
+|||
+
+</h2>
+
+---
+
+# 10. X Æ A-12
+<h2>
+
+|<!---->|<!---->|
+|----|-------------|
+| Ⓐ | Robert Downey Jr. |
+| Ⓑ | Bill Gates        |
+| Ⓒ | Elon Musk         |
+|||
+
+</h2>
+
+---
+
+## End of Round 6
+# Who's baby is that?
+
+---
+
+## Round 6 - Answers
+
+1. Ⓑ Jamie Oliver (Buddy Bear)
+2. Ⓐ Nicolas Cage (Kal-El) 
+3. Ⓑ Mariah Carey (Moroccan)
+4. Ⓒ Kate Winslet (Bear Blaze)
+5. Ⓒ Beyoncé (Blue Ivy)
+6. Ⓑ Kourtney Kardashian (Reign)
+7. Ⓐ Gyneth Paltrow (Apple)
+8. Ⓐ Bono (Memphis Eve)
+9. Ⓑ Michael Jackson (Blanket)
+10. Ⓒ Elon Musk (X-Ash-A-Twelve)
