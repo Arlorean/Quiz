@@ -47,7 +47,7 @@
 
 ---
 
-## 8. What does Homer call the pig in Simpsons the Movie?
+## 8. What does Homer call the pig in The Simpsons Movie?
 
 ---
 
@@ -76,7 +76,7 @@
 |2|The Itchy & Scratchy Show
 |3|Moe's Tavern
 |4|Apu Nahasapeemapetilon
-|5|Pattie & Selma
+|5|Patty & Selma
 |6|Charles Montgomery Burns
 |7|Edna Krabappel
 |8|Spider Pig
@@ -130,7 +130,7 @@
 
 ---
 
-## 10. In 2002 a Reading band entered A Song For Europe with a song called Fancy My Changes. What was the name of the drummer?
+## 10. A Reading band entered *Song For Europe 2002* with a song called *Fancy My Chances*. What was the name of the drummer?
 
 ---
 
@@ -243,43 +243,43 @@
 
 ---
 
-## 1. How many instalments are there in the Saw series? 
+## 1. How many instalments are there in the *Saw* series (2004-2017)? 
 
 ---
 
-## 2. What was the name of Jodie Foster’s character in Silence of Lambs?  
+## 2. What was the name of Jodie Foster’s character in *The Silence of the Lambs* (1991)?  
 
 ---
 
-## 3. What is the name of the prequel to Texas Chainsaw Massacre? 
+## 3. What is the name of the prequel (2017) to *The Texas Chain Saw Massacre* (1974)? 
 
 ---
 
-## 4. To stay alive in the film The Ring, what should you avoid doing?  
+## 4. To stay alive in the film *The Ring* (2002), what should you avoid doing?  
 
 ---
 
-## 5. In the movie IT (2017) what is written on the three doors?
+## 5. In the movie *IT* (2017) what is written on two of the three doors?
 
 ---
 
-## 6. What is the name of the motel in the Hitchcock classic Psycho (1960)? 
+## 6. What is the name of the motel in the Hitchcock classic *Psycho* (1960)? 
 
 ---
 
-## 7. In the film The Purge (2013), how long does the Purge last? 
+## 7. In the film *The Purge* (2013), how long does The Purge last? 
 
 ---
 
-## 8. In the Walking Dead Series, what dark secret does Terminus hold? 
+## 8. In *The Walking Dead* series (2010-2020), what dark secret does Terminus hold? 
 
 ---
 
-## 9. What is the name of the (human) spaceship in Alien? 
+## 9. What is the name of the human spaceship in *Alien* (1979)? 
 
 ---
 
-## 10. In the movie Final Destination how were the main group supposed to die? 
+## 10. In the movie *Final Destination* (2000) how were the main group supposed to die? 
 
 ---
 
