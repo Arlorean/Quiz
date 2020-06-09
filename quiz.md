@@ -1,13 +1,18 @@
 # The Davidson's Quiz
 
-1. The Simpsons
-2. Eurovision
-3. British Bridges
-4. Fright Night
-5. 1980's Music Emoji
-6. Who's baby is that?
+|<!---->|<!---->|
+|----|-------------|
+|1|[The Simpsons](#/Simpsons)
+|2|[Eurovision](#/Eurovision)
+|3|[British Bridges](#/BritishBridges)
+|4|[Fright Night](#/FrightNight)
+|5|[1980's Music Emoji](#/MusicEmoji)
+|6|[Who's baby is that?](#/Baby)
+||
+<!-- .element: class="fragment fade-up"-->
 
 ---
+<!-- .slide: id="Simpsons" -->
 
 ## Round 1
 # The Simpsons
@@ -57,22 +62,32 @@
 ## End of Round 1
 # The Simpsons
 
+# [↺](#/Simpsons)
+
 ---
 
 ## Round 1 - Answers
 
-1. Santa's Little Helper
-2. The Itchy & Scratchy Show
-3. Moe's Tavern
-4. Apu Nahasapeemapetilon
-5. Pattie & Selma
-6. Charles Montgomery Burns
-7. Edna Krabappel
-8. Spider Pig
-9. Tony Blair
-10. Mixed Curling
+<h5>
+
+|<!---->|<!---->|
+|----|-------------|
+|1|Santa's Little Helper
+|2|The Itchy & Scratchy Show
+|3|Moe's Tavern
+|4|Apu Nahasapeemapetilon
+|5|Pattie & Selma
+|6|Charles Montgomery Burns
+|7|Edna Krabappel
+|8|Spider Pig
+|9|Tony Blair
+|10|Mixed Curling
+||
+<!-- .element: class="fragment fade-up"-->
+</h5>
 
 ---
+<!-- .slide: id="Eurovision" -->
 
 ## Round 2
 # Eurovision
@@ -122,22 +137,31 @@
 ## End of Round 2
 # Eurovision
 
+# [↺](#/Eurovision)
+
 ---
 
 ## Round 2 - Answers
 
-1.  1956
-2.  7 countries
-3.  Ireland (7 times)
-4.  Sandie Shaw, Lulu, Brotherhood of Man, Bucks Fizz, Katrina and the Waves
-5. Netherlands
-6. 2009 (16th May)
-7. Australia, Israel, Cyprus, Armenia, Morocco
-8. Spain (Massiel’s song La La La)
-9. Norway (4 times)
-10. Adam Davidson
+<h6>
+
+|<!---->|<!---->|
+|----|-------------|
+|1|1956
+|2|7 countries
+|3|Ireland (7 times)
+|4|Sandie Shaw, Lulu, Brotherhood of Man, <br>Bucks Fizz, Katrina and the Waves
+|5|Netherlands
+|6|2009 (16th May)
+|7|Australia, Israel, Cyprus, Armenia, Morocco
+|8|Spain (Massiel’s song La La La)
+|9|Norway (4 times)
+|10|Adam Davidson
+<!-- .element: class="fragment fade-up"-->
+</h6>
 
 ---
+<!-- .slide: id="BritishBridges" -->
 
 ## Round 3
 # British Bridges
@@ -187,22 +211,32 @@
 ## End of Round 3
 # British Bridges
 
+# [↺](#/BritishBridges)
+
 ---
 
 ## Round 3 - Answers
 
-1. Tower Bridge (London)
-2. Humber Bridge (Hull)
-3. Forth Bridge (Edinburgh)
-4. Tyne Bridge (Newcastle)
-5. Clifton Suspension Bridge (Bristol)
-6. Infinity Bridge (Stockton-on-Tees)
-7. The Iron Bridge (Telford)
-8. The Peace Bridge (Londonderry)
-9. Monnow Bridge (Monmouth)
-10. Gateshead Millenuim Bridge (Gateshead)
+<h5>
+
+|<!---->|<!---->|
+|----|-------------|
+|1|Tower Bridge (London)
+|2|Humber Bridge (Hull)
+|3|Forth Bridge (Edinburgh)
+|4|Tyne Bridge (Newcastle)
+|5|Clifton Suspension Bridge (Bristol)
+|6|Infinity Bridge (Stockton-on-Tees)
+|7|The Iron Bridge (Telford)
+|8|The Peace Bridge (Londonderry)
+|9|Monnow Bridge (Monmouth)
+|10|Gateshead Millenuim Bridge (Gateshead)
+||
+<!-- .element: class="fragment fade-up"-->
+</h5>
 
 ---
+<!-- .slide: id="FrightNight" -->
 
 ## Round 4
 # Fright Night
@@ -250,24 +284,34 @@
 ---
 
 ## End of Round 4
-# Fight Night
+# Fright Night
+
+# [↺](#/FrightNight)
 
 ---
 
 ## Round 4 - Answers
 
-1. 8 (Saw 1-7, Jigsaw)
-2. Leatherface
-3. Clarice (Starling)
-4. Watching the Video Tape
-5. Not Scary at all, Scary, Very Scary
-6. Bates Motel
-7. 12 hours
-8. They're Cannibals
-9. Nostromo
-10. Airplane Explosion
+<h5>
+
+|<!---->|<!---->|
+|----|-------------|
+|1|8 (Saw 1-7, Jigsaw)
+|2|Leatherface
+|3|Clarice (Starling)
+|4|Watching the Video Tape
+|5|Not Scary at all, Scary, Very Scary
+|6|Bates Motel
+|7|12 hours
+|8|They're Cannibals
+|9|Nostromo
+|10|Aeroplane Explosion
+||
+<!-- .element: class="fragment fade-up"-->
+</h5>
 
 ---
+<!-- .slide: id="MusicEmoji" -->
 
 ## Round 5
 # 1980's Music Emoji
@@ -317,6 +361,8 @@
 ## End of Round 5
 # 1980's Music Emoji
 
+# [↺](#/MusicEmoji)
+
 ---
 
 ## Round 5 - Answers
@@ -325,21 +371,22 @@
 
 |<!---->|<!---->|<!---->|
 |----|----|-------------|
-|1| 🔫🔫🌹🌹     | Guns and Roses     |
-|2| 🍌🍜        | Bananarama(n)    |
-|3| 🐝🐝☕👦👦 | Beastie Boys |
-|4| 🐐1️⃣1️⃣ | Ramones |
-|5| 😂➗ | Joy Division |
-|6| 💧🏃💧🏃 | Duran Duran |
-|7| 🌙🚶 | Michael Jackson |
-|8| 🐕🛒👦👦 | Pet Shop Boys |
-|9| 🙉🐆 | Def Leppard |
-|10| 💬🗿🗿 | Talking Heads |
+|1| 🔫🔫🌹🌹     | Guns and Roses
+|2| 🍌🍜        | Bananarama(n)
+|3| 🐝🐝☕👦👦 | Beastie Boys
+|4| 🐐1️⃣1️⃣ | Ramones
+|5| 😂➗ | Joy Division
+|6| 💧🏃💧🏃 | Duran Duran
+|7| 🌙🚶 | Michael Jackson
+|8| 🐕🛒👦👦 | Pet Shop Boys
+|9| 🙉🐆 | Def Leppard
+|10| 💬🗿🗿 | Talking Heads
 ||||
-
+<!-- .element: class="fragment"-->
 </h5>
 
 ---
+<!-- .slide: id="Baby" -->
 
 ## Round 6
 # Who's baby is that?
@@ -347,7 +394,7 @@
 ---
 
 # 1. Buddy Bear
-<h2>
+<h3>
 
 |<!---->|<!---->|
 |----|-------------|
@@ -355,13 +402,13 @@
 | Ⓑ | Jamie Oliver |
 | Ⓒ | James Corden |
 |||
-
-</h2>
+<!-- .element: class="fragment"-->
+</h3>
 
 ---
 
 # 2. Kal-El
-<h2>
+<h3>
 
 |<!---->|<!---->|
 |----|-------------|
@@ -369,13 +416,13 @@
 | Ⓑ | Christopher Reeve |
 | Ⓒ | Ben Affleck       |
 |||
-
-</h2>
+<!-- .element: class="fragment"-->
+</h3>
 
 ---
 
 # 3. Moroccan
-<h2>
+<h3>
 
 |<!---->|<!---->|
 |----|-------------|
@@ -383,13 +430,13 @@
 | Ⓑ | Mariah Carey    |
 | Ⓒ | Kirstie Allsopp |
 |||
-
-</h2>
+<!-- .element: class="fragment"-->
+</h3>
 
 ---
 
 # 4. Bear Blaze
-<h2>
+<h3>
 
 |<!---->|<!---->|
 |----|-------------|
@@ -397,13 +444,13 @@
 | Ⓑ | Leonardo DiCaprio |
 | Ⓒ | Kate Winslet      |
 |||
-
-</h2>
+<!-- .element: class="fragment"-->
+</h3>
 
 ---
 
 # 5. Blue Ivy
-<h2>
+<h3>
 
 |<!---->|<!---->|
 |----|-------------|
@@ -411,13 +458,13 @@
 | Ⓑ | Pink        |
 | Ⓒ | Beyoncé     |
 |||
-
-</h2>
+<!-- .element: class="fragment"-->
+</h3>
 
 ---
 
 # 6. Reign 
-<h2>
+<h3>
 
 |<!---->|<!---->|
 |----|-------------|
@@ -425,13 +472,13 @@
 | Ⓑ | Kourtney Kardashian |
 | Ⓒ | Angelina Jolie      |
 |||
-
-</h2>
+<!-- .element: class="fragment"-->
+</h3>
 
 ---
 
 # 7. Apple
-<h2>
+<h3>
 
 |<!---->|<!---->|
 |----|-------------|
@@ -439,13 +486,13 @@
 | Ⓑ | Steve Jobs     |
 | Ⓒ | Hilary Duff    |
 |||
-
-</h2>
+<!-- .element: class="fragment"-->
+</h3>
 
 ---
 
 # 8. Memphis Eve
-<h2>
+<h3>
 
 |<!---->|<!---->|
 |----|-------------|
@@ -453,13 +500,13 @@
 | Ⓑ | Cher        |
 | Ⓒ | Elvis       |
 |||
-
-</h2>
+<!-- .element: class="fragment"-->
+</h3>
 
 ---
 
 # 9. Blanket
-<h2>
+<h3>
 
 |<!---->|<!---->|
 |----|-------------|
@@ -467,13 +514,13 @@
 | Ⓑ | Michael Jackson |
 | Ⓒ | Sting           |
 |||
-
-</h2>
+<!-- .element: class="fragment"-->
+</h3>
 
 ---
 
 # 10. X Æ A-12
-<h2>
+<h3>
 
 |<!---->|<!---->|
 |----|-------------|
@@ -481,25 +528,39 @@
 | Ⓑ | Bill Gates        |
 | Ⓒ | Elon Musk         |
 |||
-
-</h2>
+<!-- .element: class="fragment"-->
+</h3>
 
 ---
 
 ## End of Round 6
 # Who's baby is that?
 
+# [↺](#/Baby)
+
 ---
 
 ## Round 6 - Answers
 
-1. Ⓑ Jamie Oliver (Buddy Bear)
-2. Ⓐ Nicolas Cage (Kal-El) 
-3. Ⓑ Mariah Carey (Moroccan)
-4. Ⓒ Kate Winslet (Bear Blaze)
-5. Ⓒ Beyoncé (Blue Ivy)
-6. Ⓑ Kourtney Kardashian (Reign)
-7. Ⓐ Gyneth Paltrow (Apple)
-8. Ⓐ Bono (Memphis Eve)
-9. Ⓑ Michael Jackson (Blanket)
-10. Ⓒ Elon Musk (X-Ash-A-Twelve)
+<h5>
+
+|<!---->|<!---->|<!---->|<!---->|
+|----|----|-------------|-------------|
+|1|Ⓑ|Jamie Oliver|Buddy Bear
+|2|Ⓐ|Nicolas Cage|Kal-El
+|3|Ⓑ|Mariah Carey|Moroccan
+|4|Ⓒ|Kate Winslet|Bear Blaze
+|5|Ⓒ|Beyoncé|Blue Ivy
+|6|Ⓑ|Kourtney Kardashian|Reign
+|7|Ⓐ|Gyneth Paltrow|Apple
+|8|Ⓐ|Bono|Memphis Eve
+|9|Ⓑ|Michael Jackson|Blanket
+|10|Ⓒ|Elon Musk|X-Ash-A-Twelve
+||||
+<!-- .element: class="fragment"-->
+</h5>
+
+---
+
+## Thanks for playing
+# The Davidson's Quiz
