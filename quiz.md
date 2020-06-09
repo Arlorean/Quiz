@@ -7,7 +7,7 @@
 |3|[British Bridges](#/BritishBridges)
 |4|[Fright Night](#/FrightNight)
 |5|[1980's Music Emoji](#/MusicEmoji)
-|6|[Who's baby is that?](#/Baby)
+|6|[Whose baby is that?](#/Baby)
 ||
 <!-- .element: class="fragment fade-up"-->
 
@@ -122,11 +122,11 @@
 
 ---
 
-## 8. In 1968, Cliff Richard’s song Congratulations was beaten by which country? 
+## 8. In 1968, Cliff Richards' song Congratulations was beaten by which country? 
 
 ---
 
-## 9. Which country holds the record for the most number of nil points? 
+## 9. Which country holds the record for the most number of total nil points? 
 
 ---
 
@@ -230,7 +230,7 @@
 |7|The Iron Bridge (Telford)
 |8|The Peace Bridge (Londonderry)
 |9|Monnow Bridge (Monmouth)
-|10|Gateshead Millenuim Bridge (Gateshead)
+|10|Gateshead Millennuim Bridge (Gateshead)
 ||
 <!-- .element: class="fragment fade-up"-->
 </h5>
@@ -263,7 +263,7 @@
 
 ---
 
-## 6. What is the name of the motel in the Hitchcock class Psycho (1960)? 
+## 6. What is the name of the motel in the Hitchcock classic Psycho (1960)? 
 
 ---
 
@@ -389,7 +389,7 @@
 <!-- .slide: id="Baby" -->
 
 ## Round 6
-# Who's baby is that?
+# Whose baby is that?
 
 ---
 
@@ -426,7 +426,7 @@
 
 |<!---->|<!---->|
 |----|-------------|
-| Ⓐ | Bear Grills     |
+| Ⓐ | Bear Grylls     |
 | Ⓑ | Mariah Carey    |
 | Ⓒ | Kirstie Allsopp |
 |||
@@ -482,7 +482,7 @@
 
 |<!---->|<!---->|
 |----|-------------|
-| Ⓐ | Gyneth Paltrow |
+| Ⓐ | Gwyneth Paltrow |
 | Ⓑ | Steve Jobs     |
 | Ⓒ | Hilary Duff    |
 |||
@@ -534,7 +534,7 @@
 ---
 
 ## End of Round 6
-# Who's baby is that?
+# Whose baby is that?
 
 # [↺](#/Baby)
 
@@ -552,7 +552,7 @@
 |4|Ⓒ|Kate Winslet|Bear Blaze
 |5|Ⓒ|Beyoncé|Blue Ivy
 |6|Ⓑ|Kourtney Kardashian|Reign
-|7|Ⓐ|Gyneth Paltrow|Apple
+|7|Ⓐ|Gwyneth Paltrow|Apple
 |8|Ⓐ|Bono|Memphis Eve
 |9|Ⓑ|Michael Jackson|Blanket
 |10|Ⓒ|Elon Musk|X-Ash-A-Twelve
