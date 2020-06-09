@@ -1,4 +1,4 @@
-# The Davidson's Quiz
+# The Davidsons' Quiz
 
 |<!---->|<!---->|
 |----|-------------|
@@ -563,4 +563,4 @@
 ---
 
 ## Thanks for playing
-# The Davidson's Quiz
+# The Davidsons' Quiz
