@@ -19,11 +19,11 @@
 
 ---
 
-## 1. What is the Simpson’s dog called?
+## 1. What is the Simpsons' dog called?
 
 ---
 
-## 2. What is the name of the cartoon show the Simpson's watch?
+## 2. What is the name of the cartoon show the Simpsons watch?
 
 ---
 
