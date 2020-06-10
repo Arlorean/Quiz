@@ -1,28 +1,35 @@
-<p align="center">
-  <a href="https://revealjs.com">
-  <img src="https://hakim-static.s3.amazonaws.com/reveal-js/logo/v1/reveal-black-text.svg" alt="reveal.js" width="450">
+My turn to do a Saturday night quiz on Zoom during Lockdown and instead of going with PowerPoint I decided to try to explore [Reveal.js](https://revealjs.com/).
+
+There are 6 rounds to the quiz, half with a UK-centric slant:
+1. The Simpsons
+2. Eurovision
+3. British Bridges
+4. Fright Night
+5. 1980's Music Emoji
+6. Whose baby is that?
+
+The quiz is live at [https://arlorean.github.io/Quiz](https://arlorean.github.io/Quiz).
+
+The images were taken from a Google Image search in lieu of finding CC0 replacements. They are not covered by the project license.
+
+The Reveal.js code is [MIT Licensed](https://github.com/hakimel/reveal.js/blob/master/LICENSE).
+
+The whole quiz is CC0 1.0 Universal (completely public domain and free to use).
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
   </a>
-  <br><br>
-  <a href="https://github.com/hakimel/reveal.js/actions"><img src="https://github.com/hakimel/reveal.js/workflows/tests/badge.svg"></a>
-  <a href="https://slides.com/"><img src="https://s3.amazonaws.com/static.slid.es/images/slides-github-banner-320x40.png?1" alt="Slides" width="160" height="20"></a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://github.com/Arlorean/Quiz">
+    <span property="dct:title">Adam Davidson</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">Quiz</span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="GB" about="https://github.com/Arlorean/Quiz">
+  United Kingdom</span>.
 </p>
-
-reveal.js is an open source HTML presentation framework. It enables anyone with a web browser to create fully featured and beautiful presentations for free. [Check out the live demo](https://revealjs.com/).
-
-The framework comes with a broad range of features including [nested slides](https://revealjs.com/vertical-slides/), [Markdown support](https://revealjs.com/markdown/), [Auto-Animate](https://revealjs.com/auto-animate/), [PDF export](https://revealjs.com/pdf-export/), [speaker notes](https://revealjs.com/speaker-view/), [LaTeX support](https://revealjs.com/math/), [syntax highlighted code](https://revealjs.com/code/) and much more.
-
-<h1>
-  <a href="https://revealjs.com/installation" style="font-size: 3em;">Get Started</a>
-</h1>
-
-## Documentation
-The full reveal.js documentation is available at [revealjs.com](https://revealjs.com).
-
-## Online Editor
-Want to create your presentation using a visual editor? Try the official reveal.js presentation platform for free at [Slides.com](https://slides.com). It's made by the same people behind reveal.js.
-
-## License
-
-MIT licensed
-
-Copyright (C) 2011-2020 Hakim El Hattab, https://hakim.se
