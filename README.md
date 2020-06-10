@@ -12,4 +12,6 @@ The quiz is live at [https://arlorean.github.io/Quiz](https://arlorean.github.io
 
 The images were taken from a Google Image search in lieu of finding CC0 replacements. They are not covered by the project license.
 
+The Reveal.js code is [MIT Licensed](https://github.com/hakimel/reveal.js/blob/master/LICENSE).
+
 The whole quiz is CC0 1.0 Universal (completely public domain and free to use).
