@@ -1,5 +1,7 @@
 My turn to do a Saturday night quiz on Zoom during Lockdown and instead of going with PowerPoint I decided to try to explore [Reveal.js](https://revealjs.com/).
 
+![https://arlorean.github.io/Quiz](quiz.png)
+
 There are 6 rounds to the quiz, half with a UK-centric slant:
 1. The Simpsons
 2. Eurovision
