@@ -279,7 +279,7 @@
 
 ---
 
-## 10. In the movie *Final Destination* (2000) how were the main group supposed to die? 
+## 10. In the movie *Final Destination* (2000) how were the main group supposed to die? Bonus point for closest - How many die?
 
 ---
 
@@ -305,7 +305,7 @@
 |7|12 hours
 |8|They're Cannibals
 |9|Nostromo
-|10|Aeroplane Explosion
+|10|Aeroplane Explosion + 287 die
 ||
 <!-- .element: class="fragment fade-up"-->
 </h5>
